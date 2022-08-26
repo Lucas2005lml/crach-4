@@ -112,7 +112,6 @@ justify-content: center;
         border-radius: 50%;
 }
 
-@media (min-width: 960px) {
+@media (min-width: 960px) {}
   main {background: url(images/d825b96f6f6df5366e227f71679d04c7.jpg) no-repeat center top;
-
 }
